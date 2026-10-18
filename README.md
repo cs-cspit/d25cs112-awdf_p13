@@ -1,7 +1,7 @@
 # Practical 13: AI API Integration into a Web Application
 
 **Course**: Advanced Web Development Frameworks (ITUE301)  
-**Department**: IT/CE/CSE/AIML - CSPIT, CHARUSAT  
+**Department**: CSE - CSPIT, CHARUSAT  
 **Semester**: 5th  
 
 ---
